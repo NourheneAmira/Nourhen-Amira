@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nourhene Amira</h1>
-<h3 align="center">Ingénieur en informatique spécialisée en développement web full stack</h3>
+<h3 align="center">Ingénieur informatique spécialisée en développement web full stack</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
